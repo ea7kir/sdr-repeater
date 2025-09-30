@@ -8,10 +8,10 @@
 ## Intent
 - An easy to build 'black box' DATV repeater
 - Runs on a headless Mini PC (minimum spec t.b.a)
-- GUI control from a PC, Linux or Mac computer
-- Minumum external hardware
-- No hardware encoder, HDMI switch or cables
+- Remote monitor and control from a Web browser over LAN or Internet
+- No hardware encoder or HDMI switch and cables
 - One LibreSDR for TX and RX
 - BATC Stream input & output
+- Carousel with morse ident
 - Built in generated testcards, morse ident and stereo lineup tone
 - A single .ini configuration file
